@@ -14,11 +14,10 @@ The **Inspiring Quotes Generator** is a simple web-based application that provid
  Project Structure
 ```
  Quote-Generator
-├──  index.html  # Home page with introduction & button to generate quotes
-├──  quote.html  # Page where quotes are displayed dynamically
-├──  script.js   # JavaScript logic for quote generation
-├──  images/    # Background image for styling
-└──  README.md   # Project documentation (this file)
+  index.html  : Home page with introduction & button to generate quotes
+  quote.html  : Page where quotes are displayed dynamically
+  script.js   : JavaScript logic for quote generation
+  imageS      : Background image for styling
 ```
 
  How It Works
